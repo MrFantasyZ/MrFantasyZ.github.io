@@ -312,7 +312,6 @@ h1, h2, h3 {
 }
 h1 { font-size: 28px; color: var(--side-strong); margin: 0 0 14px; }
 h2 { font-size: 157%; color: var(--heading); margin: 2px 0 15px; }
-h3.pub-group { font-size: 110%; color: var(--heading); margin: 22px 0 12px; opacity: .85; }
 
 p, ul, ol { margin: 0 0 20px; }
 img { max-width: 100%; }
